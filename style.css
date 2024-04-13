@@ -1,0 +1,9 @@
+.header-h2{
+    width: 350px;
+    height: 220px;
+    border: top 15px, left 10px, bottom 20px, right 10px;
+    margin-bottom: 30px;
+border: dotted 2px;
+border-color: red;
+background-color: green;
+}
